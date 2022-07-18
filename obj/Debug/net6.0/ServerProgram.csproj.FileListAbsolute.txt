@@ -1,0 +1,15 @@
+C:\Users\black\source\repos\ServerProgram\ServerProgram\bin\Debug\net6.0\ServerProgram.exe
+C:\Users\black\source\repos\ServerProgram\ServerProgram\bin\Debug\net6.0\ServerProgram.deps.json
+C:\Users\black\source\repos\ServerProgram\ServerProgram\bin\Debug\net6.0\ServerProgram.runtimeconfig.json
+C:\Users\black\source\repos\ServerProgram\ServerProgram\bin\Debug\net6.0\ServerProgram.dll
+C:\Users\black\source\repos\ServerProgram\ServerProgram\bin\Debug\net6.0\ref\ServerProgram.dll
+C:\Users\black\source\repos\ServerProgram\ServerProgram\bin\Debug\net6.0\ServerProgram.pdb
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.AssemblyInfo.cs
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.dll
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ref\ServerProgram.dll
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.pdb
+C:\Users\black\source\repos\ServerProgram\ServerProgram\obj\Debug\net6.0\ServerProgram.genruntimeconfig.cache
